@@ -1,3 +1,4 @@
 <?php
-echo "This chekcing yyyy for git"
+echo "This chekcing 2 for git"
+echo "This chekcing 2 for git"
 ?>
